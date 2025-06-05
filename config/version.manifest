@@ -1,0 +1,7 @@
+{
+  "packageUrl": "https://pamudipunsala.github.io/hot-update-config/config/",
+  "remoteVersionUrl": "https://pamudipunsala.github.io/hot-update-config/config/version.manifest",
+  "remoteManifestUrl": "https://pamudipunsala.github.io/hot-update-config/config/project.manifest",
+  "version": "1.0.0",
+  "engineVersion": "3.0.0"
+}
