@@ -1,0 +1,41 @@
+{
+  "packageUrl": "https://pamudipunsala.github.io/hot-update-config/config/",
+  "remoteVersionUrl": "https://pamudipunsala.github.io/hot-update-config/config/version.manifest",
+  "remoteManifestUrl": "https://pamudipunsala.github.io/hot-update-config/config/project.manifest",
+  "version": "1.0.0",
+  "assets": {
+    "cc.config.f268d.json": {
+      "md5": "f0439a520900a3f022de1dcb5d9a1ae4",
+      "size": 611
+    },
+    "import/1b/1be2916e-5ad6-4bef-96a5-6aff8586849d.02f60.json": {
+      "md5": "02f6027490cac7c4d969caae34b610c7",
+      "size": 346
+    },
+    "import/33/33a6d425-ad32-49a9-a713-ae965f704cd8.64de8.json": {
+      "md5": "64de8ea1fc57033b9f44db71ec1ec0d6",
+      "size": 114
+    },
+    "import/70/709b7722-4439-4c24-a5d1-d06a9db8802d.a2533.json": {
+      "md5": "a253314ec7107d95345d7fc89b8d7bb5",
+      "size": 72
+    },
+    "import/70/709b7722-4439-4c24-a5d1-d06a9db8802d@6c48a.2deda.json": {
+      "md5": "2deda590294c2bfd223f5a0ce3ff8f5f",
+      "size": 104
+    },
+    "import/70/709b7722-4439-4c24-a5d1-d06a9db8802d@f9941.ff9ee.json": {
+      "md5": "ff9ee6d24ef96dd54f2f9badb43a5771",
+      "size": 565
+    },
+    "index.f268d.js": {
+      "md5": "63fb33d4ed48f36779893e9df502d358",
+      "size": 914
+    },
+    "native/70/709b7722-4439-4c24-a5d1-d06a9db8802d.5e3e4.png": {
+      "md5": "5e3e48058b9925ba6a1ad8a6b0f91780",
+      "size": 2513074
+    }
+  },
+  "searchPaths": []
+}
